@@ -7,8 +7,7 @@ comments: false
 <div class="jumbotron">
   <p>For questions or comments about the {{ site.title }}, please contact:
     <ul>
-      <li>Content: <a href="https://apps.lib.uh.edu/staff/members/profile/awashington">Anne Washington</a>, Metadata Services Coordinator</li>
-      <li>Technical: <a href="https://apps.lib.uh.edu/staff/members/profile/ajweidner">Andrew Weidner</a>, Digital Operations Coordinator</li>
+      <li>Content: <a href="collections@wellcome.com">Collections & Research, Wellcome Collection</a></li>
     </ul>
   </p>
 </div>
