@@ -9,18 +9,18 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: "https://uhlibraries-digital.github.io/bcdams-map"
+url: "https://"VickyTEI/VisMat-Metadata-Framework"
 enforce_ssl: ""
-baseurl: "/bcdams-map"
+baseurl: "/VisMat-Metadata-Framework"
 
 # Title of website
-title: BCDAMS MAP
+title: Wellcome Collection Visual Materials Metadata Framework
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: digital asset management, university of houston, metadata application profile
+keywords: wellcome collection, museum cataloguing, cultural object cataloguing,  libraries, archives, metadata framework
 
 # Short description of your site
-desc: "This is the metadata application profile for the University of Houston Library's digital asset management system: the Bayou City DAMS."
+desc: "This is the metadata Framework for cataloguing visual materials held in the library and archive collections at Wellcome Collection"
 
 # --- Navigation bar options --- #
 
@@ -39,10 +39,9 @@ nav-links:
 
 # If the values are empty, they are ignored
 profile:
-  name: Andrew Weidner
-  email: ajweidner@uh.edu
-  # facebook: your-fb-id
-  github: uhlibraries-digital
+  name: Victoria Webb
+  email: v.webb@wellcome.org
+  github: vickyTEI
   # twitter: your-twitter-id
   # linkedin: your-linkedin-id
   # stackoverflow: your-stackoverflow-id
@@ -59,7 +58,7 @@ profile:
 # google_analytics: "Your-GA-Id"
 
 # Set these options as you need (For more information, check Jekyll's site)
-timezone: "America/Chicago"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
@@ -88,5 +87,5 @@ exclude:
   - README.md
   - CNAME
 
-created-by: Weidner, Andrew
-creator-url: https://id.lib.uh.edu/ark:/84475/au2798md59p
+created-by: Victoria Webb, Collections Information, Wellcome Collection
+# creator-url: https://id.lib.uh.edu/ark:/84475/au2798md59p
