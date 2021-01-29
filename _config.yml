@@ -1,6 +1,6 @@
 # Build settings
 # Gems
-gems:
+gems: 
 - jekyll-paginate
 - jekyll-feed
 
