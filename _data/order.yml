@@ -1,64 +1,16 @@
 descriptive:
-  - alternative
-  - contributor
+  - reference
+  - numberOfObjects
+  - objectType
+  - techniqueMedium
+  - dimensions
+  - physicalDescription
+  - title
+  - lettering
   - creator
   - date
-  - description
-  - extent
-  - format
-  - hasType
-  - language
-  - spatial
-  - publisher
-  - partOf
+  - place
   - subject
-  - temporal
-  - title
-  - type
-administrative:
-  - accessRights
-  - aSpaceUri
-  - isPartOf
-  - isShownAt
-  - donor
-  - identifier
-  - note
-  - source
-  - relation
-  - rights
-  - rightsHolder
-brays:
-  - title
-  - alternative
-  - partOf
-  - creator
-  - contributor
-  - publisher
-  - date
-  - language
-  - description
-  - subject
-  - spatial
-  - temporal
-  - hasType
-  - format
-  - type
-  - extent
-  - identifier
-  - isPartOf
-  - aSpaceUri
-  - donor
-  - rights
-  - rightsHolder
-  - accessRights
-  - note
-  - relation
-  - isShownAt
-  - source
-carpenters:
-  - title
-  - date
-  - aSpaceUri
-  - identifier
-  - isPartOf
-  - note
+  - infoSources
+  - access
+  - reproduction

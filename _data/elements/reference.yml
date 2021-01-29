@@ -1,0 +1,6 @@
+label: "Reference Number"
+namespace: "dcterms"
+name: "reference"
+definition: "Unique object identification number"
+source: "http://purl.org/dc/terms/reference"
+obligation: "Required"
