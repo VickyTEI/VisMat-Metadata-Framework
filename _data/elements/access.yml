@@ -1,0 +1,5 @@
+label: "Access Rights"
+namespace: "dc"
+name: "access"
+definition: "Information about access conditions for the item."
+obligation: "required"
