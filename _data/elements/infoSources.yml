@@ -1,0 +1,7 @@
+label: "Information Sources"
+namespace: "dcterms"
+name: "infoSources"
+definition: "Sources of information informing the catalogue record."
+obligation: "optional"
+type: "administrative"
+repeatable: true
