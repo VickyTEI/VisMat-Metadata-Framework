@@ -1,0 +1,5 @@
+label: "Dimensions"
+namespace: "dcterms"
+name: "dimensions"
+definition: "The physiacl dimensions of the item."
+obligation: "Required"
