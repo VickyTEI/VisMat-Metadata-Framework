@@ -1,0 +1,7 @@
+label: "Place"
+namespace: "dcterms"
+name: "place"
+definition: "Geographical place assocaited with the item"."
+obligation: "Optional"
+type: "descriptive"
+repeatable: true
