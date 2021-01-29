@@ -1,0 +1,6 @@
+label: "Lettering"
+namespace: "uhlib"
+name: "lettering"
+definition: "Text taken form the item itself."
+obligation: "optional"
+repeatable: true
