@@ -1,10 +1,9 @@
-label: "Genre"
+label: "Technique and Medium"
 namespace: "edm"
-name: "hasType"
+name: "techniqueMedium"
 definition: "The identifier of a concept, or a word or phrase from a controlled vocabulary (thesaurus etc) giving the type of the CHO."
-source: "http://www.europeana.eu/schemas/edm/hasType"
+source: "http://www.europeana.eu/schemas/edm/techniqueMedium"
 obligation: "optional"
-type: "descriptive"
 repeatable: true
 range:
   - label: "AAT Genre Term"
@@ -120,4 +119,4 @@ range:
       - "yearbooks"
 crosswalk:
   avalon:
-    label: "Genre"
+    label: "Technique"
