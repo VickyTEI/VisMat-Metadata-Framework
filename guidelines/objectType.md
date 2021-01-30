@@ -19,3 +19,12 @@ To ensure consistency, Object Type terminology should be controlled and taken fr
 If the object cannot be described by any of the existent terms, the cataloguer is required to liaise with the Wellcome cataloguing team with reference to above thesauri if possible for the term to be added to the controlled vocabulary.
 
 It is possible to select multiple terms for the same object or group of objects. However, it is suggested to maintain the use of broader terms, as more information about the object will be given at different levels in the catalogue record. 
+
+|Valid Object Terms|
+|-----------------|
+|drawings|
+|paintings|
+|photographs|
+|postcards|
+|posters|
+|prints|
