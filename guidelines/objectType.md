@@ -1,7 +1,7 @@
 ---
 layout: template1
 title: Object Type
-data: ObjectType
+data: objectType
 comments: false
 ---
 
