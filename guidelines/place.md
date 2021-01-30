@@ -1,7 +1,7 @@
 ---
 layout: template1
 title: Place
-data: spatial
+data: place
 comments: false
 ---
 
