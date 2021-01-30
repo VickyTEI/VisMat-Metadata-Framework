@@ -7,37 +7,10 @@ comments: false
 
 {% include guidelines.md %}
 
-**DPLA MAP v4 Usage:** Primary name given to the described resource.
+## Title
 
-### Access Guidelines
-
-Preferably this title comes from the item itself or uses some text that appears on the item. Write out the title or text from the item as it appears on the item.
-
-Identical titles may be used for different items when appropriate.
-
-__Capitalization:__
-
- - Capitalize the first word and proper nouns
- - Keep other capitalization the same as it is found on the item
- - If the title is taken from a catalog record, copy the capitalization from the record
-
-Resource Type | Title Guidelines | Example(s)
---------------|------------------|-----------
-__Letter__ | `Letter from [sender] to [recipient], [YYYY Month DD]` | - Letter from Minnie Fisher Cunningham to Ella Pomeroy <br /> <br /> - Letter from J. S. Cullinan to W. T. Sinclair, 1931 February 4
-__Serials (e.g. newsletters)__ |- `[title of newsletter], Vol. [volume number], No. [issue number],[issue date]` <br /> <br /> - If volume and/or issue numbers are in Roman numerals, Use Arabic numerals (e.g. 1, 2, 3...) in titles and repeat title with Roman numerals in Alternative Title field. | - Breakthrough, January 1976 <br /> <br /> - The Cougar, Vol. 1, No. 1, April 6, 1928 <br /> <br /> - Southern Conservative, Vol. 1, No. 11-12, November-December 1950
-__Book__ | Title from the catalog record. If the full title of the resource is very long, enter a shorted version of the title or the title excluding the subtitle and enter the full title according to the `Alternate Title` [input guidelines](https://vocab.lib.uh.edu/bcdams-map/guidelines/alternative)  | -La arquitectura en Mexico <br /> <br /> -Greater Houston, Texas and the Southwest
-__Television programs__ | - Use the title that appears on the television program <br /> - For television programs that are part of a series use the construction: `[Series Title], Episode [#]: [Title if available]` Fill in as many components as available. | -Almanac, Episode 101 <br /> <br /> -The Capitol Report, Episode 105: Capitol Restoration <br /> <br /> -Heartbreak Turtle
-__Other formats__ | Devise a brief descriptive title that uniquely identifies the resource (e.g. names of persons, corporate bodies, objects, activities, and events). If possible, use title or text from the item as it appears on the item. | - Receipt from Annin & Co. <br /> <br /> - General Emiliano Zapata and his staff
-
-
-### Preservation Guidelines
-
-A description of the contents of the preservation package.
-
-For archival projects, data in this field is automatically populated from the title field of the associated ArchivesSpace item. For standard projects, data in this field is automatically populated from the item title entered in the Carpenters "Items" tab.
-
-__EXAMPLES__
-
-- 40,000 Window Panes, 1986
-- Episode 103, June 9, 1989
-- The Nuntius, Volume 1, No. 2, August 1970
+### CCO Guidelines:
+The Title element records the titles, identifying phrases, or names given to a work of art or architecture. It may be used for various kinds of titles or names. Titles may be descriptive phrases that refer to the iconographical subject or theme of the art work. They may also record the identifying phrases or names given to works that do not have a title per se. 
+Titles may come from various sources. Titles for works are typically assigned by artists, owning institutions, collectors, or scholars. Titles for well-known works commonly become authoritative through publications and scholarship (for example, Mona Lisa). 
+Many works, including utilitarian works, decorative art, cultural artifacts, maps, diagrams, archaeological works, ethnographic materials, and some buildings, do not have titles or names per se. For these works, a descriptive title should be constructed to facilitate identification by users. A visual resources collection may have to construct titles when there is no repository-supplied title for a work. Construct titles when necessary. Titles may be derived from their subject content or iconography.
+All significant titles or names by which a work is or has been known should be recorded. Works of art or architecture may be known by many different titles or names; titles may change throughout history. It is useful for researchers to know the alternate and former titles, names, or identifying phrases for the work. Title Type Including a Title Type provides a way to distinguish between the various types of titles (for example, repository title, inscribed title, creator’s title, descriptive title)
