@@ -11,7 +11,7 @@ comments: false
 
 # Description
 
-The {{ site.title }} outlines the use of metadata types for Visual Materials at Wellcome Collection.
+The {{ site.title }} outlines the use of metadata types for Visual Materials.
 
 # API
 
