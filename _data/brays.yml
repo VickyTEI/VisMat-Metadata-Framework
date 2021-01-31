@@ -1,108 +1,62 @@
+reference:
+    input: "single"
+    visible: true
+    editable: true
+numberOfObjects:
+    input: "single"
+    visible: true
+    editable: true
+objectType:
+    input: "single"
+    visible: true
+    editable: true
+techniqueMedium:
+    input: "single"
+    visible: true
+    editable: true
+dimensions:
+    input: "single"
+    visible: true
+    editable: true
+physicalDescription:
+    input: "single"
+    visible: true
+    editable: true
 title:
     input: "single"
     visible: true
     editable: true
-alternative:
-    input: "single"
-    visible: true
-    editable: true
-partOf:
+lettering:
     input: "single"
     visible: true
     editable: true
 creator:
-    input: "single"
-    visible: true
-    editable: true
-contributor:
-    input: "single"
-    visible: true
-    editable: true
-publisher:
-    input: "single"
+    input: "multi"
     visible: true
     editable: true
 date:
     input: "single"
     visible: true
     editable: true
-language:
+place:
     input: "single"
-    visible: true
-    editable: true
-description:
-    input: "multi"
     visible: true
     editable: true
 subject:
     input: "single"
     visible: true
     editable: true
-spatial:
+infoSources:
     input: "single"
     visible: true
     editable: true
-temporal:
+access:
     input: "single"
     visible: true
     editable: true
-hasType:
+reproduction:
     input: "single"
     visible: true
     editable: true
-format:
-    input: "single"
-    visible: true
-    editable: true
-type:
-    input: "single"
-    visible: true
-    editable: true
-extent:
-    input: "single"
-    visible: true
-    editable: true
-identifier:
-    input: "single"
-    visible: true
-    editable: true
-isPartOf:
-    input: "single"
-    visible: true
-    editable: true
-aSpaceUri:
-    input: "single"
-    visible: true
-    editable: false
-donor:
-    input: "single"
-    visible: true
-    editable: true
-rights:
-    input: "single"
-    visible: true
-    editable: true
-rightsHolder:
-    input: "single"
-    visible: true
-    editable: true
-accessRights:
-    input: "single"
-    visible: true
-    editable: true
-note:
-    input: "multi"
-    visible: true
-    editable: true
-relation:
-    input: "single"
-    visible: true
-    editable: true
-isShownAt:
-    input: "single"
-    visible: true
-    editable: false
-source:
-    input: "single"
-    visible: true
-    editable: false
+
+
