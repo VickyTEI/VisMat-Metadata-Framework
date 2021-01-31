@@ -2,25 +2,27 @@
 layout: template1
 ---
 
-<h1><img src="{{ site.baseurl }}{{ site.avatar }}" alt="WC logo" style="width:50px;height:50px;"> Bayou City DAMS</h1>
+<h1><img src="{{ site.baseurl }}{{ site.avatar }}" alt="WC logo" style="width:50px;height:50px;">Wellcome Collection</h1>
 <h2>Visual Materials Metadata Framework</h2>
 
-<hr>
-<p><b>Descriptive:</b>
+<p>The framework outlines metadata relating to specific information categories 
+  relevant to cataloguing an object from the Visual collection. 
+  It is recognised it may not be possible to provide content for each category, 
+  but an ideal record should contain as many as available information allows, 
+  with those included in the Inventory minimal viable record + Physical description, 
+  Access status & conditions, reproduction conditions and condition as mandatory.</p>
+
+  <hr>
+<p><b>Metadata Types:</b>
 {% for field in site.data.order.descriptive %}
   {% assign element = site.data.elements[field] %}
   {% include toc.html %}
 {% endfor %}
 </p>
-<p><b>Administrative:</b>
-{% for field in site.data.order.administrative %}
-  {% assign element = site.data.elements[field] %}
-  {% include toc.html %}
-{% endfor %}
-</p>
+
 <hr>
 
-<h3>Descriptive Metadata</h3>
+<h3>Metadata Types</h3>
 <table class="floating-header" cellspacing="0">
 {% for field in site.data.order.descriptive %}
   {% assign element = site.data.elements[field] %}
@@ -28,12 +30,5 @@ layout: template1
 {% endfor %}
 </table>
 
-<h3>Administrative Metadata</h3>
-<table class="floating-header" cellspacing="0">
-{% for field in site.data.order.administrative %}
-  {% assign element = site.data.elements[field] %}
-  {% include table.html %}
-{% endfor %}
-</table>
 
 <br>
