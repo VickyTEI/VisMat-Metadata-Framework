@@ -89,3 +89,5 @@ exclude:
 
 created-by: Victoria Webb, Collections Information, Wellcome Collection
 # creator-url: 
+
+theme: jekyll-theme-tactile
