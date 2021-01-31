@@ -9,7 +9,7 @@ range:
   - label: "Authorised Terms"
     values:
       - "cartoons (humorous images)"
-      - "engravings (prints)
+      - "engravings (prints)""
       - "prints (visual works)"
       - "woodcuts (prints)"
 crosswalk:
