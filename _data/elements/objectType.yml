@@ -2,6 +2,5 @@ label: "Object Type"
 namespace: "dcterms"
 name: "objectType"
 definition: "The nature or genre of the resource."
-source: "http://purl.org/dc/terms/objectType"
 obligation: "required"
 repeatable: false
