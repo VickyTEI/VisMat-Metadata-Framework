@@ -2,6 +2,5 @@ label: "Creator"
 namespace: "dcterms"
 name: "creator"
 definition: "The person(s) or bodies responsible for creating the item."
-source: "http://purl.org/dc/terms/creator"
 obligation: "recommended"
 repeatable: true
