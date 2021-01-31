@@ -1,8 +1,6 @@
 # Build settings
 # Gems
-gems:
-- jekyll-paginate
-- jekyll-feed
+gem: "jekyll-paginate"
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
