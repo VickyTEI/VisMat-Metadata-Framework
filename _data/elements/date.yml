@@ -2,6 +2,5 @@ label: "Date"
 namespace: "dc"
 name: "date"
 definition: "The date of creation for the item."
-source: "http://purl.org/dc/elements/1.1/date"
 obligation: "stronglyRecommended"
 repeatable: true
