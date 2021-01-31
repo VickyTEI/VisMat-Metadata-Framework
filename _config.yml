@@ -14,7 +14,7 @@ enforce_ssl: ""
 baseurl: "/VisMat-Metadata-Framework"
 
 # Title of website
-title: Wellcome Collection Visual Materials Metadata Framework
+title: Visual Materials Metadata Framework
 
 #Default keywords (used if no keywords are specified on a page basis)
 keywords: wellcome collection, museum cataloguing, cultural object cataloguing,  libraries, archives, metadata framework
